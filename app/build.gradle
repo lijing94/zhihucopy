@@ -26,5 +26,8 @@ dependencies {
     compile 'com.android.support:design:23.4.0'
     compile project(':bottomnavigation')
     compile 'com.google.android.gms:play-services-appindexing:8.1.0'
+<<<<<<< HEAD
     compile project(':library')
+=======
+>>>>>>> 383afecbee7e970a1f149bace58e0d9920a7b3da
 }

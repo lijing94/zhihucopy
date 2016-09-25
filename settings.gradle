@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 include ':app', ':bottomnavigation', ':library'
+=======
+include ':app', ':bottomnavigation'
+>>>>>>> 383afecbee7e970a1f149bace58e0d9920a7b3da

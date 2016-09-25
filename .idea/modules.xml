@@ -4,8 +4,12 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottomnavigation/bottomnavigation.iml" filepath="$PROJECT_DIR$/bottomnavigation/bottomnavigation.iml" />
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/zhihucopy-master.iml" filepath="$PROJECT_DIR$/zhihucopy-master.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/zhihucopy.iml" filepath="$PROJECT_DIR$/zhihucopy.iml" />
+>>>>>>> 383afecbee7e970a1f149bace58e0d9920a7b3da
     </modules>
   </component>
 </project>

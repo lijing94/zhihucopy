@@ -11,10 +11,22 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/bottomnavigation" />
+<<<<<<< HEAD
             <option value="$PROJECT_DIR$/library" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />
+=======
+          </set>
+        </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/bottomnavigation" />
+          </set>
+        </option>
+>>>>>>> 383afecbee7e970a1f149bace58e0d9920a7b3da
       </GradleProjectSettings>
     </option>
   </component>
