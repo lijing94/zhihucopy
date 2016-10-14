@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">zhihucopy</string>
     <string name="action_settings">Settings</string>
+    <string name="action_all_live"></string>
 
     <string name="about">About</string>
     <string name="about_body"><![CDATA[
