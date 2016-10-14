@@ -14,14 +14,25 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:theme="@style/AppTheme.AppBarOverlay">
-
+        <!--toolbar-->
         <android.support.v7.widget.Toolbar
             android:id="@+id/firstactivity_toolbar"
             android:layout_height="wrap_content"
             android:layout_width="match_parent"
             android:minHeight="?attr/actionBarSize"
             android:background="?attr/colorPrimary"
-            app:layout_scrollFlags="scroll|enterAlways|snap"/>
+            app:layout_scrollFlags="scroll|enterAlways|snap">
+            <Button
+                android:id="@+id/button1"
+                android:layout_width="match_parent"
+                android:layout_height="36dp"
+                android:drawableLeft="@drawable/ic_search"
+                android:text="搜索话题、问题或人"
+                android:textAlignment="textStart"
+                android:background="@color/primary_white"
+                />
+
+        </android.support.v7.widget.Toolbar>
     </android.support.design.widget.AppBarLayout>
 
 
@@ -50,9 +61,9 @@
         android:layout_marginBottom="64dp"
         android:layout_marginRight="16dp"
         android:src="@drawable/ic_add_white_24dp"
-        fab:fab_colorNormal="@color/accent"
-        fab:fab_colorPressed="@color/accent_pressed"
-        fab:fab_colorRipple="@color/ripple"/>
+        fab:fab_colorNormal="@color/fab_color"
+        fab:fab_colorPressed="@color/fab_color"
+        fab:fab_colorRipple="@color/fab_color"/>
 
 
         
