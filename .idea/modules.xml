@@ -5,7 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/bottomnavigation/bottomnavigation.iml" filepath="$PROJECT_DIR$/bottomnavigation/bottomnavigation.iml" />
       <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/zhihucopy.iml" filepath="$PROJECT_DIR$/zhihucopy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhihucopy-master.iml" filepath="$PROJECT_DIR$/zhihucopy-master.iml" />
     </modules>
   </component>
 </project>
